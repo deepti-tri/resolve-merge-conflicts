@@ -1,5 +1,5 @@
-# References
 
-* octocat 1 😈# References
+This is a test for the create-conflict exercise
 
-* octocat 1 😈
+
+
